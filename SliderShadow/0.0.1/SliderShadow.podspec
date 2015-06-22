@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { "Danny Lin" => "danny@35g.tw" }
-  s.source       = { :git => "http://dylab.mediweb.35g.tw:30000/Danny_Lin/SliderShadowDemo.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/danny-source/SliderShadowDemo.git", :tag => s.version.to_s }
   s.platform     = :ios, '8.0'
 
   s.source_files = 'SliderShadow/SliderShadow.{h,m}'
