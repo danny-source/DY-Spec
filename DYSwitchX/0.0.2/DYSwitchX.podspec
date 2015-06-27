@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DYSwitchX"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "DYSwitchX is a iOS UISwitch like for Mac OS X"
   s.homepage	 = "http://cms.35g.tw/coding"
 
