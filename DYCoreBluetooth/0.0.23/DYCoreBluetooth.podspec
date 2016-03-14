@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'DYCoreBluetooth'
-  s.version      = '0.0.22'
+  s.version      = '0.0.23'
   s.summary      = 'DYCoreBluetooth for OSX 10.8 and iOS 6.1 above'
   s.license = 'MIT'
   s.homepage = 'http://cms.35g.tw/coding'
